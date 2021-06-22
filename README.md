@@ -5,7 +5,7 @@ Matthew Czopik's Repository hub housing all the academic coding projects he has 
 ## NJ Inmate Census Data Analysis:
 
 * https://github.com/Mattcz1998/NJ_Inmate_Census_DataAnalysis
-* __Description:__ Conducted data analysis on the official NJ Inmate Census data from https://nj.data.gov using Python. Utilized the Pandas and Matplotlib Python libraries to create multiple graphs to illustrate existing .csv data.
+* __Description:__ Conducted data analysis on the official NJ Inmate Census data from https://nj.data.gov using Python. Primarily utilized the Pandas and Matplotlib Python libraries to create multiple graphs and output to illustrate the existing .csv data.
 
 ## Chris Network Solutions 
 
