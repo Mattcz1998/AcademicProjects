@@ -22,7 +22,7 @@ Matthew Czopik's Repository hub housing all the academic coding projects he has 
 ## DBMS Dynamic Website:
 
 * https://github.com/Mattcz1998/DBMS_DynamicWebsite
-* __Description:__ Developed a dynamic website with HTML/PHP that utilizes searching, inserting, and deleting in an existing MySQL database.  
+* __Description:__ Developed a dynamic website with HTML/PHP that demonstrates searching, inserting, and deleting in an existing MySQL database.  
 * The dynamic website is fully functional on this URL: http://eve.kean.edu/~czopikm/CPS3740/index.html
 
 ## VisualizedAnalytics.com HTML Mockup
